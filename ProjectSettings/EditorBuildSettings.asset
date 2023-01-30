@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 9d7ce32897b879c429de289cd6bb9932
+  - enabled: 1
+    path: Assets/Scenes/Skip Screen.unity
+    guid: 56c2b490d32ab9e46b5a66e0c896ec8a
+  - enabled: 1
+    path: Assets/Scenes/Day1/Intro.unity
+    guid: 1f707ac23a1719443a3109aace4761c5
+  - enabled: 1
+    path: Assets/Scenes/Day1/ClassroomDay1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Day1/HallwayDay1.unity
+    guid: 839363ce7343a38448a4611a9f3c09ac
+  - enabled: 1
+    path: Assets/Scenes/Day1/Janitors RoomDay1.unity
+    guid: 36e3d1bd50edfad45aff2ee3d8950848
+  - enabled: 1
+    path: Assets/Scenes/Day2/ClassroomDay2.unity
+    guid: 1d1d9e0e93b3a484b923f5d642afbbcb
+  - enabled: 1
+    path: Assets/Scenes/Day2/CafeteriaDay2.unity
+    guid: f942ab44ccc139f43a17c041d7ad885d
+  - enabled: 1
+    path: Assets/Scenes/Day2/LibraryDay2.unity
+    guid: 01dfac8ea53202c44bcfb171df9f46fb
+  - enabled: 1
+    path: Assets/Scenes/Day2/Janitors RoomDay2.unity
+    guid: 50810971d5893744bb8ff73c4976a3db
+  - enabled: 1
+    path: Assets/Scenes/Day3/ClassroomDay3.unity
+    guid: 6a74cf628a08e304595e76bf4c4536b0
+  - enabled: 1
+    path: Assets/Scenes/Day3/HallwayDay3.unity
+    guid: 4dc6e355f87b5374c908f41bec6be045
+  - enabled: 1
+    path: Assets/Scenes/Day3/LibraryDay3.unity
+    guid: 376b21ddaaca19245a4087bc22d88bae
+  - enabled: 1
+    path: Assets/Scenes/Day3/CafeteriaDay3.unity
+    guid: ac054c110638a754485ef5895099d610
+  - enabled: 1
+    path: Assets/Scenes/Day3/Janitors RoomDay3.unity
+    guid: 7408a66e550696f4ea93010563d9b66b
+  - enabled: 1
+    path: Assets/Scenes/Day4/CafeteriaDay4.unity
+    guid: 4b9ab959a1df1424aa7b4fc426c9f7ce
+  - enabled: 1
+    path: Assets/Scenes/Day4/ClassroomDay4.unity
+    guid: 4c756537c9a6a3742ae4ea276100de78
+  - enabled: 1
+    path: Assets/Scenes/Day4/HallwayDay4.unity
+    guid: ac9e4b9f6bce6b14f8c08b9ef9fbdb3f
+  - enabled: 1
+    path: Assets/Scenes/Day4/LibraryDay4.unity
+    guid: 1820085029fca2340b6638e205f26bd7
+  - enabled: 1
+    path: Assets/Scenes/Day5/StairsDay5.unity
+    guid: 508189a595c20e147aaa3ec5485f43fd
+  - enabled: 1
+    path: Assets/Scenes/Day5/ArtifactDay5.unity
+    guid: 3cb2c7e711613864080f1666b70be3bd
+  - enabled: 1
+    path: Assets/Scenes/Day5/EndingEvil.unity
+    guid: 3b298b65a43890f42aaddeb0be2c3160
+  - enabled: 1
+    path: Assets/Scenes/Day5/EndingNeutral.unity
+    guid: fdd070d7409be1444be666c8c8cd90b3
+  - enabled: 1
+    path: Assets/Scenes/Day5/EndingGood.unity
+    guid: bfe03d2adc8c2df458c624e1d74e9107
+  - enabled: 1
+    path: Assets/Scenes/Day5/GameEnd.unity
+    guid: ba5c531ee2320604b92688b3d0d9bb50
+  m_configObjects: {}
